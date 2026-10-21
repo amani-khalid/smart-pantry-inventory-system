@@ -1,4 +1,3 @@
-# smart-pantry-inventory-system
 # Smart Pantry Inventory System
 
 A Java Swing desktop application for managing household pantry inventory, tracking expiry dates, and organizing grocery shopping.
