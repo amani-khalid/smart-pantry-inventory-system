@@ -1,0 +1,23 @@
+# Shared Family Pantry - All users see the same items
+# Format: ID|Name|Category|Quantity|Unit|Threshold|ExpiryDate
+
+ITEM_1001|Apples|Fruits & Vegetables|2.0|kg|5.0|2025-12-01
+ITEM_1002|Milk|Beverages & Others|1.0|L|3.0|2025-11-15
+ITEM_1003|Canned Beans|Canned & Dried Goods|0.5|can|2.0|2026-01-01
+ITEM_1004|Chips|Snacks|0.3|bag|1.0|2025-12-20
+ITEM_1005|Orange Juice|Beverages & Others|0.2|L|2.0|2025-11-25
+ITEM_1006|Bananas|Fruits & Vegetables|0.8|kg|2.0|2025-11-08
+ITEM_1007|Pasta|Canned & Dried Goods|0.3|kg|1.0|2026-03-15
+ITEM_1008|Cookies|Snacks|0.2|box|1.0|2025-12-25
+ITEM_1009|Eggs|Beverages & Others|4.0|pcs|12.0|2025-11-12
+ITEM_1010|Carrots|Fruits & Vegetables|1.0|kg|1.0|2025-11-10
+ITEM_1011|Rice|Canned & Dried Goods|0.6|kg|2.0|2026-02-28
+ITEM_1012|Chocolate Bars|Snacks|1.0|bar|3.0|2025-12-30
+ITEM_1013|Yogurt|Beverages & Others|0.5|cup|2.0|2025-11-09
+ITEM_1014|Tomatoes|Fruits & Vegetables|0.7|kg|2.0|2025-11-14
+ITEM_1015|Canned Soup|Canned & Dried Goods|1.0|can|3.0|2026-01-20
+ITEM_1016|Potato Chips|Snacks|0.9|bag|2.0|2025-12-18
+ITEM_1017|Coffee|Beverages & Others|0.1|kg|0.5|2026-04-15
+ITEM_1018|Spinach|Fruits & Vegetables|1.0|kg|1.0|2025-11-07
+ITEM_1019|Canned Tuna|Canned & Dried Goods|4.0|can|4.0|2026-03-10
+ITEM_1020|Granola Bars|Snacks|2.0|bar|2.0|2025-12-22

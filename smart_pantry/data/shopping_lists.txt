@@ -1,0 +1,38 @@
+LIST|SL-1764012743532|Mon Nov 24 23:33:03 GST 2025|USER_1001
+ITEM|Apples|3.0|kg|To Buy
+ITEM|Milk|2.0|L|To Buy
+ITEM|Canned Beans|1.5|can|To Buy
+ITEM|Chips|0.7|bag|To Buy
+ITEM|Orange Juice|1.8|L|To Buy
+ITEM|Bananas|1.2|kg|To Buy
+ITEM|Pasta|0.7|kg|To Buy
+ITEM|Cookies|0.8|box|To Buy
+ITEM|Eggs|8.0|pcs|To Buy
+ITEM|Rice|1.4|kg|To Buy
+ITEM|Chocolate Bars|2.0|bar|To Buy
+ITEM|Yogurt|1.5|cup|To Buy
+ITEM|Tomatoes|1.3|kg|To Buy
+ITEM|Canned Soup|2.0|can|To Buy
+ITEM|Potato Chips|1.1|bag|To Buy
+ITEM|Coffee|0.4|kg|To Buy
+ITEM|Granola Bars|1.6|bar|Purchased
+ITEM|Pineapple|10.0|kg|To Buy
+END
+LIST|SL-1764012785535|Mon Nov 24 23:33:05 GST 2025|USER_1000
+ITEM|Apples|3.0|kg|To Buy
+ITEM|Milk|2.0|L|To Buy
+ITEM|Canned Beans|1.5|can|To Buy
+ITEM|Chips|0.7|bag|To Buy
+ITEM|Orange Juice|1.8|L|To Buy
+ITEM|Bananas|1.2|kg|To Buy
+ITEM|Pasta|0.7|kg|To Buy
+ITEM|Cookies|0.8|box|To Buy
+ITEM|Eggs|8.0|pcs|To Buy
+ITEM|Rice|1.4|kg|To Buy
+ITEM|Chocolate Bars|2.0|bar|To Buy
+ITEM|Yogurt|1.5|cup|To Buy
+ITEM|Tomatoes|1.3|kg|To Buy
+ITEM|Canned Soup|2.0|can|To Buy
+ITEM|Potato Chips|1.1|bag|To Buy
+ITEM|Coffee|0.4|kg|To Buy
+END
