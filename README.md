@@ -46,6 +46,6 @@ Use **Sign Up** to create an account. Pantry inventory is shared across accounts
 | `src/repo/` | File persistence |
 | `src/interfaces/` | Storage and observer interfaces |
 | `images/` | Application logo |
-| `examples/` | Sample inventory |
+| `data/` | Sample inventory |
 
 Developed for **COSC 230 — Object-Oriented Programming**.
